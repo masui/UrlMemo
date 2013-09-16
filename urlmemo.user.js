@@ -69,6 +69,7 @@
 // @exclude http://s7.addthis.com/*
 // @exclude https://widgets.getpocket.com/*
 // @exclude https://www.facebook.com/ai.php*
+// @exclude http://www.facebook.com/l.php*
 // @exclude https://www.facebook.com/plugins/like*
 // @exclude https://www.facebook.com/plugins/recommendations*
 // @exclude https://www.facebook.com/connect/ping*
@@ -91,8 +92,6 @@
 //
 //
 // ==/UserScript==
-
-// 訪れたURLをmemo.masui.org/urlmemo に登録する
 
 d = new Date;
 GM_xmlhttpRequest({
