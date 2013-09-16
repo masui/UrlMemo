@@ -90,6 +90,8 @@
 // @exclude https://aax-fe.amazon-adsystem.com/*
 // @exclude http://www.amazon.co.jp/aan/*
 // @exclude http://js.fout.jp/*
+// @exclude http://adm.shinobi.jp/*
+// @exclude http://www-open-opensocial.googleusercontent.com/*
 //
 //
 // ==/UserScript==
