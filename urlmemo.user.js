@@ -92,6 +92,10 @@
 // @exclude http://js.fout.jp/*
 // @exclude http://adm.shinobi.jp/*
 // @exclude http://www-open-opensocial.googleusercontent.com/*
+// @exclude http://www.buzzfeed.com/*
+// @exclude http://labaq.com/user/themes*
+// @exclude http://a248.e.akamai.net*
+// @exclude http://www.blogger.com/navbar*
 //
 //
 // ==/UserScript==
