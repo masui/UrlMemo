@@ -89,6 +89,7 @@
 // @exclude http://z-ecx.images-amazon.com/images/*
 // @exclude https://aax-fe.amazon-adsystem.com/*
 // @exclude http://www.amazon.co.jp/aan/*
+// @exclude http://js.fout.jp/*
 //
 //
 // ==/UserScript==
