@@ -85,6 +85,9 @@
 // @exclude http://api.popin.cc/*
 // @exclude http://t.co/*
 // @exclude http://*.metric.gstatic.com/*
+// @exclude http://z-ecx.images-amazon.com/images/*
+// @exclude https://aax-fe.amazon-adsystem.com/*
+// @exclude http://www.amazon.co.jp/aan/*
 //
 //
 // ==/UserScript==
