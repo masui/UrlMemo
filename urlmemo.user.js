@@ -28,8 +28,15 @@
 // @exclude http://*.adultfriendfinder.com/*
 // @exclude http://*.enoratraffic.com/*
 // @exclude http://*.deqwas.net/*
+// @exclude http://*.pubmatic.com/*
+// @exclude http://*.doubleclick.net/*
 // @exclude http://203.86.249.80/*
 // @exclude http://wms.assoc-amazon.jp/*
+// @exclude http://rcm-jp.amazon.co.jp/*
+// @exclude https://images-na.ssl-images-amazon.com/*
+// @exclude http://z-ecx.images-amazon.com/images/*
+// @exclude http://*images-amazon.com/*
+// @exclude https://*images-amazon.com/*
 // @exclude http://ad.rbbtoday.com/*
 // @exclude http://ad.adlantis.jp/*
 // @exclude http://as.bp.impact-ad.jp/*
@@ -38,7 +45,6 @@
 // @exclude http://*.impact-ad.jp/*
 // @exclude http://www.yomiuri.co.jp/i1/*
 // @exclude http://view.atdmt.com/*
-// @exclude http://rcm-jp.amazon.co.jp/*
 // @exclude http://ad.pitta.ne.jp/*
 // @exclude http://dg.specificclick.net/*
 // @exclude http://affiliate.dtiserv.com/*
@@ -60,9 +66,6 @@
 // @exclude http://plugins.mixi.jp/*
 // @exclude http://urlmemo.memo.masui.org/*
 // @exclude http://gigazine.asia/a/*
-// @exclude http://googleads.g.doubleclick.net/*
-// @exclude https://googleads.g.doubleclick.net/*
-// @exclude http://cm.g.doubleclick.net/*
 // @exclude http://sync.fout.jp/sync*
 // @exclude http://jp-u.openx.net/w/*
 // @exclude http://spnet2-1.i-mobile.co.jp/*
@@ -86,7 +89,6 @@
 // @exclude http://api.popin.cc/*
 // @exclude http://t.co/*
 // @exclude http://*.metric.gstatic.com/*
-// @exclude http://z-ecx.images-amazon.com/images/*
 // @exclude https://aax-fe.amazon-adsystem.com/*
 // @exclude http://www.amazon.co.jp/aan/*
 // @exclude http://js.fout.jp/*
@@ -96,7 +98,31 @@
 // @exclude http://labaq.com/user/themes*
 // @exclude http://a248.e.akamai.net*
 // @exclude http://www.blogger.com/navbar*
+// @exclude http://rcm-fe.amazon-adsystem.com/*
+// @exclude http://www.blogger.com/comment-iframe*
+// @exclude http://i.yimg.jp/lib/news/widgets/*
+// @exclude http://ds.advg.jp/*
+// @exclude http://dis.jp.as.criteo.com/*
+// @exclude http://ad.watch.impress.co.jp/*
+// @exclude http://leadback.advertising.com/*
+// @exclude http://k-tai.impress.co.jp/ad/*
+// @exclude http://ananke.cdnplanet.com/*
+// @exclude http://rc.rlcdn.com/*
+// @exclude http://i.yimg.jp/*
+// @exclude http://www.linkedin.com/csp/*
+// @exclude http://ads1.solocpm.com/*
+// @exclude http://cdn.turn.com/*
+// @exclude http://an.tacoda.net/*
+// @exclude http://www.google.co.jp/ads*
+// @exclude http://adclr.jp/*
 //
+// http://googleads.g.doubleclick.net/*
+// https://googleads.g.doubleclick.net/*
+// http://cm.g.doubleclick.net/*
+// http://ad.doubleclick.net/*
+// http://aktrack.pubmatic.com/*
+// http://image2.pubmatic.com/*
+// http://ads.pubmatic.com/*
 //
 // ==/UserScript==
 
